@@ -36,9 +36,6 @@
     },
     props: ['type', 'id'],
     mounted(){
-      /*console.log('src: ' + this.currentOperation);
-      console.log('new: ' + this.type);
-      this.currentOperation = this.type*/
     },
     methods: {
       updateOperation(op) {
