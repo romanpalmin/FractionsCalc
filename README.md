@@ -1,4 +1,4 @@
-# Тестовое задание 1win / Aptitude task
+# Тестовое задание 1win / Aptitude task 1win
 
 Постановка задачи:
 -----
