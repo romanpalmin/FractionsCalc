@@ -46,15 +46,6 @@ const generate = infixArr => {
     postFix.push(operationsStack.pop());
   }
 
-  // test
-  let resStr = '';
-  postFix.forEach(item => {
-    if (item.type === 'operand') {
-      resStr += 'op ';
-    } else {
-      resStr += item.value + ' ';
-    }
-  });
   return postFix;
 };
 
